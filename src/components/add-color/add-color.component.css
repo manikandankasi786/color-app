@@ -1,0 +1,38 @@
+.AddColorcontainer {
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    font-weight: lighter;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1rem;
+}
+
+.formContainer {
+    width: fit-content;
+    margin: auto;
+    border: 1px rgb(224, 224, 224) solid;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+}
+
+.add-button {
+    background: crimson;
+    border: 1px orangered;
+    border-radius: 4px;
+    color: white;
+    padding: 0.35rem;
+    
+}
+
+.add-button:hover{
+    background-color: orangered;
+    cursor: pointer;
+}
+
+.form-field {
+    margin-bottom: 1.5rem;
+}

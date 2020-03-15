@@ -1,0 +1,29 @@
+.DisplayColorContainer {
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    font-weight: lighter;
+    margin: 0;
+    padding: 0;
+    text-align: initial;
+}
+
+.color-bar {
+    width: 20rem;
+    background-color: black;
+    color: white;
+    display: inline-flex;
+    margin: 0;
+    padding: 0.4rem;
+    text-align: start;
+}
+.color {
+    margin-left: auto;
+}
+
+h4{
+    margin: 0;
+    font-weight: lighter;
+}
